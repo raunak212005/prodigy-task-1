@@ -51,9 +51,9 @@ This repository contains the completion of **Task 1** for the **Web Development 
 **Task:** 01 - Responsive Landing Page
 
 ## 📬 Connect With Me
-**GitHub:** https://github.com/realshorya
+**GitHub:** https://github.com/raunak212005
 
-**LinkedIn:** https://linkedin.com/in/shorya-chandra-0472a1313/
+**LinkedIn:** (https://www.linkedin.com/in/raunak-kumar-92326b2a3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 ⭐ If you found this project helpful, consider giving this repository a star!
