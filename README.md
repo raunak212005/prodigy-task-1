@@ -38,7 +38,7 @@ This repository contains the completion of **Task 1** for the **Web Development 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/realshorya/PRODIGY_WD_01.git
+   git clone https://github.com/raunak212005/prodigy-task-1.git
    ```
 2. Open the project folder.
 3. Run `index.html` in your preferred web browser.
